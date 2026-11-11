@@ -63,9 +63,9 @@ Building AI-powered products, web apps and hackathon projects.
 ## 📫 Connect With Me
 
 - GitHub: [@Sam-png-sys](https://github.com/Sam-png-sys)
-- LinkedIn: _add your link_
-- Portfolio: _add your link_
-- Email: _add your email_
+- LinkedIn: https://www.linkedin.com/in/samyak-tupe-131b5a253/
+- Portfolio: https://portfolio-sam-ten.vercel.app/
+- Email: samyaktupe@gmail.com
 
 ---
 
