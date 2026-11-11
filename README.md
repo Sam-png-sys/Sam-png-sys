@@ -25,7 +25,7 @@ Building AI-powered products, web apps and hackathon projects.
 
 **Frontend:** React, Vite, Tailwind CSS
 
-**Backend:** FastAPI, Node.js, Celery, Redis
+**Backend:** FastAPI, Node.js
 
 **AI/ML:** Scikit-learn, Pandas, NumPy, RAG / LLM tooling
 
