@@ -42,8 +42,8 @@ Building AI-powered products, web apps and hackathon projects.
 | Project | Description | Stack |
 |---|---|---|
 | **[Sushrut HMS](https://github.com/Sam-png-sys/hospital-management-system)** | Full-stack hospital management system | FastAPI, React, Vite |
-| **APURVA DOC** | AI document intelligence: RAG chat, summarization, Google Drive import | React, TypeScript, FastAPI, PostgreSQL, pgvector |
-| **APPU_DOC_ANALYZER** | Document analysis: summarization, NER, sentiment | FastAPI, Celery, Redis, React |
+| **APURVA DOC** | AI document intelligence: RAG chat, summarization, Google Drive import | React, TypeScript, FastAPI, PostgreSQL|
+| **APPU_DOC_ANALYZER** | Document analysis: summarization, NER, sentiment | FastAPI, React |
 | **Anchalsclasses** | Quiz / classes platform | React, FastAPI, MongoDB |
 | **NeuroSaathi.ai** | AI cognitive games & memory assistance for elderly dementia patients (SIH) | Python, AI/ML |
 
