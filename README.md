@@ -69,8 +69,3 @@ Building AI-powered products, web apps and hackathon projects.
 
 ---
 
-<div align="center">
-
-⭐ If you like my work, consider giving a star to my repos!
-
-</div>
