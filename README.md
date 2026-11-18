@@ -34,7 +34,7 @@ Building AI-powered products, web apps and hackathon projects.
 **Tools:** Git, GitHub, VS Code
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,tailwind,fastapi,nodejs,mongodb,postgres,redis,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,tailwind,fastapi,nodejs,mongodb,postgres,git,github,vscode" />
 </p>
 
 ## 📂 Featured Projects
